@@ -1,8 +1,6 @@
 import React, { useState } from 'react'
 
-const Nav = () => {
-
-  // const { counter, clear } = useStore()  
+const Nav = () => { 
 
   // const [counter, setCounter] = useState(0)
 
